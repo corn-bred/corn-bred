@@ -1,4 +1,10 @@
-## Hi there 👋
+## hi
+13 yo chunion
+
+i like
+- coding
+- 3D modeling (with blender)
+- animating
 
 <!--
 **corn-bred/corn-bred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
