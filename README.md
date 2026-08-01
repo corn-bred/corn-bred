@@ -1,8 +1,9 @@
 ## hi
-13 yo chunion
+guy
 
 i like
 - coding
+- graphics programming
 - 3D modeling (with blender)
 - animating
 
