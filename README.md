@@ -7,4 +7,4 @@ i like
 - 3D modeling (with blender)
 - animating
 
-currently in freshmen year of hs
+currently in freshman year of hs
